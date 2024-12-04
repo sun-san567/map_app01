@@ -23,8 +23,6 @@
 ・目的地周辺の基本情報表示
 
 
-APIキー
-AIzaSyCP4wm0i6dGsUiAsPOyQUCtxHL_i-iDMn4
 
 基本機能
 ランダム地点生成
