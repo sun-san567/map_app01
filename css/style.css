@@ -1,0 +1,35 @@
+body {
+  background-image: url("../img/dfbp9aorehp3bz0trh4l.png");
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+}
+
+#send-button {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #fff;
+  background-color: #eb6100;
+  border-bottom: 5px solid #b84c00;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+#send-button:hover {
+  margin-top: 3px;
+  color: #fff;
+  background: #f56500;
+  border-bottom: 2px solid #b84c00;
+}
+
+#map-area {
+  position: relative;
+}
+
+#map {
+  width: 100%;
+  height: 600px;
+}/*# sourceMappingURL=style.css.map */
